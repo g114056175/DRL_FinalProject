@@ -7,7 +7,7 @@ This repository contains the final project presentation and implementation for t
 ### Quick Navigation
 - 📊 **Presentation**: [RL_第四組簡報.pptx](./resources/RL_第四組簡報.pptx)
 - 📄 **Documentation**: [RL_第四組簡報.pdf](./resources/RL_第四組簡報.pdf)
-- 🎥 **Video Presentation**: [video.mp4](./resources/video.mp4) (10 minutes)
+- 🎥 **Video Presentation**: [video.mp4](./resources/video.mp4) (10 minutes) https://youtu.be/ey6Lyd4czS4
 
 ---
 
